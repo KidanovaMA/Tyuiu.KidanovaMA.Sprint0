@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task0.V0/Tyuiu.KidanovaMA.Sprint0.Task0.V0.csproj" />
+  </Folder>
+</Solution>
