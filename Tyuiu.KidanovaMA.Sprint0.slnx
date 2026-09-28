@@ -1,8 +1,13 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task0.V0/Tyuiu.KidanovaMA.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task0.V0/Tyuiu.KidanovaMA.Sprint0.Task0.V0.csproj" Id="cad5cb23-24ca-40fa-ac51-05b485e052a8" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task1.V0/Tyuiu.KidanovaMA.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task1.V0/Tyuiu.KidanovaMA.Sprint0.Task1.V0.csproj" Id="17edea8b-3d06-42fd-9d33-0463137df192" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task2.V0.Lib/Tyuiu.KidanovaMA.Sprint0.Task2.V0.Lib.csproj" Id="d628d633-a581-4249-b98c-a4b5db58373f" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task2.V0.Test/Tyuiu.KidanovaMA.Sprint0.Task2.V0.Test.csproj" Id="4ca89a61-7500-4e1d-a29d-175fd1f35c32" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint0.Task2.V0/Tyuiu.KidanovaMA.Sprint0.Task2.V0.csproj" Id="0a7e557b-626b-490f-ba95-8e4225fba0ed" />
   </Folder>
 </Solution>
